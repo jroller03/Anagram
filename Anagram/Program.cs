@@ -2,7 +2,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace AnagramGenerator
+namespace Anagram
 {
     public class Program
     {
